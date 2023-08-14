@@ -1,2 +1,4 @@
 Nike patkie $100
 40 | 41 | 42 | 43 | 44 | 45 | 46
+Colors: black, yellow, green. blue
+git add
